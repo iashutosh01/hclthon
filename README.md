@@ -1,4 +1,4 @@
-# Bean & Brew – Smart Coffee Shop Queue Management
+# Barista!
 
 Hackathon-grade system for minimizing customer wait time with fairness and hard constraints.
 
